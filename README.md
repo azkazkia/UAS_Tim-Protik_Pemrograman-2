@@ -3,8 +3,15 @@
 Untuk dokumentasi pemakaian aplikasi dapat dilihat di link: bit.ly/uaspemrog
 Kami menggunakan library jcalendar-1.4 yang bisa didownload di drive bit.ly/uaspemrog dikarenakan saat kami upload library di Github tidak berhasil. J-calendar.1-4 terlisensi open source oleh GNU Lesser General Public License. 
 
-Manual penggunaan aplikasi:
+Manual  INSTALL aplikasi:
+1. Membuat database bernama db_supermarket di phpmyadmin, lalu dump SQL dari file db_supermarket yang didownload dari Github.
+2. Buka IDE Netbeans, Open Project, klik folder Supermarket_3
+3. Klik tiap classnya.
+4. Install library jcalendar ke folder di PC.
+5. Run class Product, klik "Run Anyway" apabila tetap muncul error.
+6. GUI akan muncul.
 
+Manual penggunaan aplikasi:
 Buka aplikasi dan akan muncul 4 tab, customer, supplier, product, dan transaction. Digunakan sesuai kebutuhan:
 
 A. Customer:
